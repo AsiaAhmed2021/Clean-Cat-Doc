@@ -4,17 +4,12 @@
 # Product overview :
 Clean Cat is a developer tool that helps you write clean code and also provides many tips for Dot Net developers.
 
->   It saves a lot of development time
-
->   Write many lines in less than seconds
-
->   Bug tracking and tips for resolving them
-
->   Organizing and managing time for developers
-
->   Creating code via voice only is faster
-
->   Other features
+- It saves a lot of development time
+- Write many lines in less than seconds
+- Bug tracking and tips for resolving them
+- Organizing and managing time for developers
+- Creating code via voice only is faster
+- Other features
 
 ## how to ues :
 
