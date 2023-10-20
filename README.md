@@ -18,11 +18,12 @@ Clean Cat is a developer tool that helps you write clean code and also provides 
 ## Is it free or paid ?
 > It is a free tool, but there are some paid features
 
-|   Name         |Free            | Prise          | Nots           |
-| -------------- | -------------- | -------------- | -------------- |
-| Fast Coding    | Yes            | No             |  No Nots       |
-| Fast Temple    | no             | Yes            | No Nots        |
-
+|   Name                  |Free            | Prise          | Nots                                                    |
+| ----------------------- | -------------- | -------------- | ------------------------------------------------------  |
+| Fast Coding             | Yes            | No             | No Nots                                                 | 
+| Fast template           | no             | Yes            | No Nots                                                 |
+| Creating codes by voice | Yes            | Yes            | You can also create a library file for it (coming soon) |
+| Assistant bot           | Yes            | Yes            | No Nots                                                 |
 
 
  
